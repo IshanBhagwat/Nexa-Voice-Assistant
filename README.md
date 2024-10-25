@@ -1,4 +1,4 @@
-Nexa is a beginner-friendly, Python-based voice assistant designed to handle simple tasks through voice commands. This project uses Python's speech recognition and text-to-speech capabilities to respond to basic commands, making it a great foundation for learning and expanding voice assistant functionalities.
+🎙️Nexa is a beginner-friendly, Python-based voice assistant designed to handle simple tasks through voice commands. This project uses Python's speech recognition and text-to-speech capabilities to respond to basic commands, making it a great foundation for learning and expanding voice assistant functionalities.
 
 *Features:
 
